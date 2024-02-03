@@ -7,8 +7,22 @@ Venturing into a new realm in March 2023, I embarked on an exciting journey as a
 
 ## Tech I Know 🛠️
 
-### Languages:
+### Language
 ![Language 1](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/2ddb2899-360f-4a85-823d-52f9469c1f66)&nbsp;&nbsp;![Language 2](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/2ddb2899-360f-4a85-823d-52f9469c1f66)
 
-### Frameworks:
+### Framework & Front-End
 ![Framework 1](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/2ddb2899-360f-4a85-823d-52f9469c1f66)&nbsp;&nbsp;![Framework 2](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/2ddb2899-360f-4a85-823d-52f9469c1f66)
+
+### Database & Back-End
+![Framework 1](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/2ddb2899-360f-4a85-823d-52f9469c1f66)&nbsp;&nbsp;![Framework 2](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/2ddb2899-360f-4a85-823d-52f9469c1f66)
+
+### State Management
+![Framework 1](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/2ddb2899-360f-4a85-823d-52f9469c1f66)&nbsp;&nbsp;![Framework 2](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/2ddb2899-360f-4a85-823d-52f9469c1f66)
+
+### Development & Deployment
+![Framework 1](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/2ddb2899-360f-4a85-823d-52f9469c1f66)&nbsp;&nbsp;![Framework 2](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/2ddb2899-360f-4a85-823d-52f9469c1f66)
+
+
+
+
+
