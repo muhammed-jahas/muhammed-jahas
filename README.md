@@ -15,7 +15,7 @@ Venturing into a new realm in March 2023, I embarked on an exciting journey as a
 ### Framework & Front-End
 ![Frame 17](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/78c77fcb-99b2-4b18-9813-439404345696)&nbsp;&nbsp;
 
-### State Management
+### State Management Tools
 ![Frame 27](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/4396cba0-e38d-4378-b11a-5e6f110f9bd3)&nbsp;&nbsp;
 ![Frame 28](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/71c92c83-8447-40db-8c2a-f62046c55f83)&nbsp;&nbsp;
 ![Frame 29](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/189e9b02-a711-458e-854f-1e98f74c210d)
