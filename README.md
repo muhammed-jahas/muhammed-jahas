@@ -21,7 +21,11 @@ Today, I'm dedicated to building beautiful and functional mobile apps using Flut
 
 Got a cool app idea or just want to chat? Reach out on: 
 
-[![Linkedin](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/e518e4df-2767-49c9-b854-db5b29bc8857)]([https://www.example.com](https://www.linkedin.com/in/muhammed-jahas/))
+[![Frame 148](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/18671c27-820c-4732-9f87-b0e02f89f40a.svg)](https://www.linkedin.com/in/muhammed-jahas/)
+[![Frame 149](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/7c7f063b-129a-4b14-be74-dd98f080c4b1.svg)](https://muhammedjahas.tech/)
+[![Frame 150](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/467635b0-14f4-44ca-86a4-65f9a7d569a6.svg)](mailto:jahasmkm@gmail.com)
+
+
 
 I'm always open to collaborations and new opportunities!
 
