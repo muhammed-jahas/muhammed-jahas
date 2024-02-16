@@ -1,13 +1,33 @@
-# Hi there! 👋 I'm Muhammed Jahas
+<h1 align="left">Hi 👋, I'm Muhamemd Jahas</h1>
 
 ![linkedin-cover3](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/35578273-856c-4160-92c8-5e9ccccb97bb)
 
+##
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning React Native
+- 💬 Ask me anything about Mobile & Web Development
+- 📫 How to reach me: jahasmkm@gmail.com
+- 😄 My website: https://muhammedjahas.tech
+- ⚡ Fun fact: I can say "hello" in 10+ languages.
+##
 
-## About Me 👨‍💻
-Venturing into a new realm in March 2023, I embarked on an exciting journey as a mobile app developer. Armed with a passion for learning, I delved into Flutter, mastering the intricacies of the framework. In this transformative phase, I spearheaded the creation of two impactful projects. Tripline, an innovative Trip Planner app, showcases my proficiency in Flutter and UI design, seamlessly integrating local databases for optimal performance. Simultaneously, I introduced Propertify, a comprehensive Real Estate Application, developing user and agent-centric mobile applications along with a web admin dashboard using Flutter. My expanded skill set includes expertise in advanced Flutter topics, Node JS, MongoDB, and the implementation of Socket.IO for chat functionality.
+
+
+## My Story👨‍💻
+
+My journey started in graphic design, where I honed my attention to detail. That eye for design sparked my passion for crafting visually appealing and intuitive user experiences. I seamlessly transitioned into mobile app development, fueled by a desire to shape the way people interact with technology.
+
+Today, I'm dedicated to building beautiful and functional mobile apps using Flutter and Dart. Let's turn your app dreams into reality! ✨
+
+## Let's Connect! 🤝
+
+Got a cool app idea or just want to chat? Reach out on: 
+
+
+I'm always open to collaborations and new opportunities!
+
 
 ## Technologies I Know 🛠️
-
 
 ### Programming & Development
 
