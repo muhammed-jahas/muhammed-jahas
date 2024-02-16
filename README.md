@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Muhamemd Jahas</h1>
+<h1 align="left">Hi 👋, I'm Muhammed Jahas</h1>
 
 ![linkedin-cover3](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/35578273-856c-4160-92c8-5e9ccccb97bb)
 
@@ -9,8 +9,6 @@
 - 📫 How to reach me: jahasmkm@gmail.com
 - 😄 My website: https://muhammedjahas.tech
 - ⚡ Fun fact: I can say "hello" in 10+ languages.
-##
-
 
 
 ## My Story👨‍💻
@@ -23,6 +21,7 @@ Today, I'm dedicated to building beautiful and functional mobile apps using Flut
 
 Got a cool app idea or just want to chat? Reach out on: 
 
+[![Linkedin](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/e518e4df-2767-49c9-b854-db5b29bc8857)]([https://www.example.com](https://www.linkedin.com/in/muhammed-jahas/))
 
 I'm always open to collaborations and new opportunities!
 
