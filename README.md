@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Muhammed Jahas</h1>
 
-![linkedin-cover3](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/35578273-856c-4160-92c8-5e9ccccb97bb)
+![Frame 158](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/a3a8de5a-8842-4523-a7a0-1ce73f8e8ca1)
+
 
 ##
 - 🔭 I’m currently working on Flutter
