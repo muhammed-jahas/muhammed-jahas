@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Muhammed Jahas</h1>
+<h1 align="left">Hello 👋, I'm Muhammed Jahas</h1>
 
 ![Frame 158](https://github.com/muhammed-jahas/muhammed-jahas/assets/111055088/a3a8de5a-8842-4523-a7a0-1ce73f8e8ca1)
 
